@@ -1,2 +1,2 @@
 # Paradigma_Lenguajes
-Actividades desarrolladas en paradigma y lenguajes
+Codigo Fuente en Python, C y otros

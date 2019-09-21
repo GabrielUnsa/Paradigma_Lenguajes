@@ -1,0 +1,12 @@
+Pasos para usar git-shell y poder subir un archivo:
+1-git status
+2-git add "'nombredelarchivo'.'extencion'"
+3-git commit -m "'mensaje q qramos decir'"
+Cuando tengan internet poner el paso siguiente primero:
+4-git pull
+Luego por ultimo:
+5-git push
+
+opcional:
+6-git check "numero de comit sin comillas" volvemos a la vercion anterior despues git master y volvemos a la rama master y despues git pull
+

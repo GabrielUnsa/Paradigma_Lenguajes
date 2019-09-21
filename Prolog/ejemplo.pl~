@@ -1,0 +1,3 @@
+rico(Marco).
+feliz(Marco).
+no_persona(X):- rico(X) , feliz(X).
